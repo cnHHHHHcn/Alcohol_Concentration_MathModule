@@ -62,6 +62,6 @@
 
 #### 6. 编译与运行
 1. 使用 Visual Studio 打开工程。
-2. 确保包含 `MathModule.h` 和 `MathModuleDlg.h` 等头文件。
+2. 确保包含 `MathModule.h` 和 `MathModuleDlg.h` 等头文件（核心文件：`MathModuleDlg.h`，`MathModuleDlg.cpp`）。
 3. 编译链接后直接运行。
 4. **注意**：运行目录下若存在 `Alcohol_Concentration_Data.txt`，数据将被自动加载；若不存在，程序将正常启动但列表框为空。
